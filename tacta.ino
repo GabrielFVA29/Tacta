@@ -55,7 +55,7 @@ void loop() {
   
   // analogWrite(MOTOR, 255);
 
-  mp3.volume(25);
+  mp3.volume(50);
 
   randomSeed(analogRead(A0));
 
